@@ -5,10 +5,10 @@ import App from "./components/App/App";
 import { HashRouter, BrowserRouter, Route } from "react-router-dom";
 
 ReactDOM.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <BrowserRouter basename="/">
       <Route component={App} />
-    </BrowserRouter>
-  </React.StrictMode>,
+    </BrowserRouter>,
+  // </React.StrictMode>,
   document.getElementById("root")
 );
