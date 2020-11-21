@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/templatemonster/static/css/main.70f075f6.chunk.css",
-    "main.js": "/templatemonster/static/js/main.535ec253.chunk.js",
-    "main.js.map": "/templatemonster/static/js/main.535ec253.chunk.js.map",
+    "main.js": "/templatemonster/static/js/main.35664ada.chunk.js",
+    "main.js.map": "/templatemonster/static/js/main.35664ada.chunk.js.map",
     "runtime-main.js": "/templatemonster/static/js/runtime-main.79ea78bc.js",
     "runtime-main.js.map": "/templatemonster/static/js/runtime-main.79ea78bc.js.map",
     "static/js/2.ab935c9f.chunk.js": "/templatemonster/static/js/2.ab935c9f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.79ea78bc.js",
     "static/js/2.ab935c9f.chunk.js",
     "static/css/main.70f075f6.chunk.css",
-    "static/js/main.535ec253.chunk.js"
+    "static/js/main.35664ada.chunk.js"
   ]
 }
