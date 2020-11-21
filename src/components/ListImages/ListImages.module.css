@@ -1,0 +1,16 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0 0 10px;
+  }
+  
+  .listItem {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .listItem:nth-last-child(-n + 2) {
+    margin-bottom: 0;
+  }
