@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const Favorites = () => {
+    
     return (
-        <div>
-           Favorites
-Favorites 
+        <div className='container'>
+            <p>Здесь должны быть понравившиеся фотографии. Но что-то пошло не так... </p>
         </div>
     );
 };

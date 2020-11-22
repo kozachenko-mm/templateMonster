@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import styles from './Nav.module.css';
 
 const Nav = () => (
-  <nav className={styles.nav}>
+  <nav className={`container ${styles.nav}`}>
     <ul className={styles.list}>
       <li className={styles.listItem}>
         <NavLink to="/" exact className={styles.link} activeClassName={styles.activeLink}>

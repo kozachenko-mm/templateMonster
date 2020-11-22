@@ -1,8 +1,8 @@
 .photoCard {
     width: 540px;
     height: 320px;
-    box-shadow: 0 0 2px #5f5e5e;
     position: relative;
+
 }
 
 .img {
@@ -44,4 +44,12 @@
 .photoCard:hover .fullscreenButton,
 .photoCard:focus .fullscreenButton {
     opacity: 1;
+}
+.btn {
+    /* position: absolute;
+    top: 0;
+    left: 0; */
+    background: transparent;
+    border: blue;
+    outline: none;
 }

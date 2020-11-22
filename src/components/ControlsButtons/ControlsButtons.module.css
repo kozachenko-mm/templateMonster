@@ -1,0 +1,30 @@
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.button {
+    background: none;
+    outline: none;
+    border: 2px solid #4a32ff;
+    border-radius: 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+    color: #4a32ff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.button:disabled {
+    border: 2px solid rgb(78, 78, 76);
+    color: rgb(78, 78, 76);
+}
+
+.numberPage {
+    margin: 0 20px;
+    font-size: 20px;
+    color: #4a32ff;
+    font-weight: bold;
+
+}

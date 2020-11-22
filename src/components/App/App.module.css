@@ -1,7 +1,7 @@
 .wrapper {
-    width: 1140px;
-    margin: 0 auto;
-    padding: 5px;
-  } 
-
-  
+  margin: 0 auto;
+  /* min-height: 100vh; */
+  padding: 20px 5px;
+  background-image: url('../../images/light-1282314_1280.webp');
+  background-size: cover;
+}
