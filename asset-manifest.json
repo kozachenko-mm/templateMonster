@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/templatemonster/static/css/main.36ab54b4.chunk.css",
-    "main.js": "/templatemonster/static/js/main.042b8723.chunk.js",
-    "main.js.map": "/templatemonster/static/js/main.042b8723.chunk.js.map",
+    "main.js": "/templatemonster/static/js/main.45de425b.chunk.js",
+    "main.js.map": "/templatemonster/static/js/main.45de425b.chunk.js.map",
     "runtime-main.js": "/templatemonster/static/js/runtime-main.79ea78bc.js",
     "runtime-main.js.map": "/templatemonster/static/js/runtime-main.79ea78bc.js.map",
-    "static/js/2.1f677f95.chunk.js": "/templatemonster/static/js/2.1f677f95.chunk.js",
-    "static/js/2.1f677f95.chunk.js.map": "/templatemonster/static/js/2.1f677f95.chunk.js.map",
+    "static/js/2.51a7f7c1.chunk.js": "/templatemonster/static/js/2.51a7f7c1.chunk.js",
+    "static/js/2.51a7f7c1.chunk.js.map": "/templatemonster/static/js/2.51a7f7c1.chunk.js.map",
     "index.html": "/templatemonster/index.html",
     "static/css/main.36ab54b4.chunk.css.map": "/templatemonster/static/css/main.36ab54b4.chunk.css.map",
-    "static/js/2.1f677f95.chunk.js.LICENSE.txt": "/templatemonster/static/js/2.1f677f95.chunk.js.LICENSE.txt",
+    "static/js/2.51a7f7c1.chunk.js.LICENSE.txt": "/templatemonster/static/js/2.51a7f7c1.chunk.js.LICENSE.txt",
     "static/media/arrow_circle_up-white-48dp.6b0739c8.svg": "/templatemonster/static/media/arrow_circle_up-white-48dp.6b0739c8.svg",
     "static/media/App.module.css": "/templatemonster/static/media/light-1282314_1280.e4750e15.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.79ea78bc.js",
-    "static/js/2.1f677f95.chunk.js",
+    "static/js/2.51a7f7c1.chunk.js",
     "static/css/main.36ab54b4.chunk.css",
-    "static/js/main.042b8723.chunk.js"
+    "static/js/main.45de425b.chunk.js"
   ]
 }
